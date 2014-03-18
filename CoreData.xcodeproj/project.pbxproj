@@ -213,7 +213,7 @@
 				EA24611A15C6CD3A0065C12D /* VIFetchResultsDataSource.m */,
 			);
 			name = CoreDataManager;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		EA5F19D215C1A6010089AA44 /* Models */ = {
 			isa = PBXGroup;
